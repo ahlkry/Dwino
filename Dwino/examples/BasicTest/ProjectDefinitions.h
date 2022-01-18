@@ -1,0 +1,2 @@
+
+#define LengthBuffer	100
